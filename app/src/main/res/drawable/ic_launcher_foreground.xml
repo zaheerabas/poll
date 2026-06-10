@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Styled speech bubble background framing the active vote selection -->
+    <path
+        android:fillColor="#C2F23A"
+        android:pathData="M 32 30 H 76 C 81.5 30 86 34.5 86 40 V 66 C 86 71.5 81.5 76 76 76 H 48 L 34 84 V 76 C 28.5 76 24 71.5 24 66 V 40 C 24 34.5 28.5 30 32 30 Z" />
+    
+    <!-- Polling statistic bars styled inside the bubble in near-black ink -->
+    <path
+        android:fillColor="#15140F"
+        android:pathData="M 36 62 H 44 V 50 H 36 Z M 48 62 H 56 V 42 H 48 Z M 60 62 H 68 V 38 H 60 Z M 72 62 H 74 V 54 H 72 Z" />
+
+    <!-- A delicate checkmark badge in the upper right representing cast votes -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 66 18 C 71.5 18 76 22.5 76 28 C 76 33.5 71.5 38 66 38 C 60.5 38 56 33.5 56 28 C 56 22.5 60.5 18 66 18" />
+    <path
+        android:fillColor="#15140F"
+        android:pathData="M 62 28 L 65 31 L 71 25"
+        android:strokeWidth="2.5"
+        android:strokeColor="#15140F"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+</vector>

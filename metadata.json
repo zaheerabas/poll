@@ -1,0 +1,6 @@
+{
+  "name": "LinkPoll",
+  "description": "A social network for real-time polls. Ask the world anything, vote, comment, react, and share.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
